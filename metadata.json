@@ -1,0 +1,6 @@
+{
+  "name": "The AI Comm-Box",
+  "description": "A multilingual AI sports commentary box featuring distinct personalities that interact with real-time fan sentiment using Gemini 1.5 Flash and high-fidelity TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
